@@ -1,0 +1,10 @@
+Session
+- To share variable on multiple pages or entire website.
+- Two type of variable: Local Variable & Global Variable
+- Session is a global variable.
+- session_start(): to start a session before use
+- Every session has an ID session_id(). It stores in a cookies in user’s browser by default.
+- These session data stored on server. 
+- Session_destroy(): To destroy session variables
+- Unset(): to unset any variable
+- Session_unset(): destroy all session variables
