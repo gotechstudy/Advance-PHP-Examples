@@ -1,0 +1,20 @@
+- File handling is a very important part in web application. It means, we can add, read, edit files programmatically. Many of the built-in functions helps for these works.
+	Example: save contact form data in txt file, store application errors in log file etc.
+
+- Built-in function
+	=> fopen(): fopen(file_name, file_mode)
+	=> fread(): fread(file_pointer, file_length_bytes)
+	=> fwrite(): fwrite(file_pointer, data_to_write)
+	=> fclose(): fclose(file_pointer)
+	=> file_get_contents(): file_get_contents(file_name_with_path)
+
+- File Modes:
+	r => Read Only
+	w => Write only
+	a => Append only
+	x => Create & write
+	r+ => Read & Write
+	w+ => Write & Read
+
+
+
