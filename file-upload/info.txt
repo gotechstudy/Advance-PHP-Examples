@@ -1,0 +1,28 @@
+- File upload use to upload files like image, pdf, txt etc.
+- HTML Form
+	- enctype => multipart/form-data
+	
+- PHP File Handle by superglobal variable
+	-  $_FILES
+		- name
+		- tmp_name
+		- type
+		- size
+		- error
+	- move_uploaded_file
+		- temporary file data
+		- file name
+
+
+Picture1.jpg
+
+[0] => Picture1
+[1] => jpg
+
+
+Pic.tu.re1.jpg
+
+[0] => Pic
+[1] => tu
+[2] => re1
+[3] => jpg

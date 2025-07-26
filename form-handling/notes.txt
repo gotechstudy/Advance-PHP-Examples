@@ -1,0 +1,18 @@
+- What is Form Handling
+- Basic Form Elements
+	- Action
+	- Method
+	- Name
+	- ID
+	- enctype =>MIME content
+- Method
+	- Get
+	- Post
+
+Get							Post
+- Data in URL				- Data in body
+- Not secure				- More secure
+- Use for search			- Use for login/forms
+
+
+abc.com?brand=hp&ram=8gb&
